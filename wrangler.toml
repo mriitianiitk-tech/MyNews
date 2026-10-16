@@ -11,7 +11,7 @@ run_worker_first = false
 [[d1_databases]]
 binding = "DB"
 database_name = "mynews-db"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "f7a7e839-cb84-4c97-b27d-eb430de2342b"
 migrations_dir = "migrations"
 
 [vars]
