@@ -1,0 +1,6 @@
+# Copy to .dev.vars for local development. Never commit the real file.
+NEWSDATA_API_KEY=replace-with-your-newsdata-key
+BOOTSTRAP_TOKEN=replace-with-a-long-random-token
+DAILY_CREDIT_CAP=160
+SESSION_TTL_HOURS=168
+APP_ORIGIN=http://localhost:5173

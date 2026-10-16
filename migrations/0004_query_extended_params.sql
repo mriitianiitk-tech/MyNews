@@ -1,0 +1,5 @@
+ALTER TABLE queries ADD COLUMN raw_url TEXT;
+ALTER TABLE queries ADD COLUMN sentiment TEXT;
+ALTER TABLE queries ADD COLUMN sort TEXT;
+ALTER TABLE queries ADD COLUMN removeduplicate INTEGER DEFAULT 0;
+ALTER TABLE queries ADD COLUMN custom_params TEXT;
